@@ -1,5 +1,3 @@
-# P.2-Factors-Products
-Factors and Products 
 <!DOCTYPE html>
 <html lang="en">
 <head>
